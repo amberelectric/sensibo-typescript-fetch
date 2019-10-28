@@ -1,0 +1,5 @@
+{
+    "supportsES6": true,
+    "typescriptThreePlus": true,
+    "npmName": "sensibo-typescript-client"
+}
